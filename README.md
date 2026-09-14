@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**wodjs0811-byte/wodjs0811-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Jaeeon.
+🎓 Economics & Software Student
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 Major in **Economics**, Double Major in **Software**
+- 📈 Interested in Financial Technology (FinTech), Data Analysis, and Software Engineering
+
+### 📫 Connect with Me
+
+- ✉️ **Email:** [jaeeon@naver.com]
+- 🐙 **GitHub:** [https://github.com/wodjs0811-byte]
